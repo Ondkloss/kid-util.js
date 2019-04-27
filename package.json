@@ -1,0 +1,29 @@
+{
+  "name": "@ondkloss/kid-util",
+  "version": "1.0.3",
+  "description": "Module for making and verifying KID numbers",
+  "main": "kid-util.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ondkloss/kid-util.js.git"
+  },
+  "keywords": [
+    "kid"
+  ],
+  "author": "Halvor Holsten Strand",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Ondkloss/kid-util.js/issues"
+  },
+  "homepage": "https://github.com/Ondkloss/kid-util.js#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
