@@ -1,5 +1,10 @@
-var kid = require('../kid-util');
-var expect = require('chai').expect;
+/* eslint no-console: 0 */
+'use strict';
+
+const kid = require('../kid-util');
+const expect = require('chai').expect;
+const { describe, context, it } = require('mocha');
+
 
 console.log(kid);
 

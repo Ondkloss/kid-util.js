@@ -24,6 +24,7 @@
   "homepage": "https://github.com/Ondkloss/kid-util.js#readme",
   "devDependencies": {
     "chai": "^4.2.0",
+    "eslint": "^5.16.0",
     "mocha": "^6.1.4"
   }
 }

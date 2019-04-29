@@ -1,3 +1,5 @@
+'use strict';
+
 function make(value, mode = 'MOD10') {
     if (mode.toUpperCase() == 'MOD10') {
         return makeMod10(value);
