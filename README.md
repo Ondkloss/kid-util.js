@@ -1,5 +1,7 @@
 # KID util
 
+[![Build Status](https://travis-ci.com/Ondkloss/kid-util.js.svg?branch=master)](https://travis-ci.com/Ondkloss/kid-util.js)
+
 Simple utils to generate and verify KID numbers with either MOD10 or MOD11.
 
 ## Installation
