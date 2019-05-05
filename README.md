@@ -8,13 +8,13 @@ Simple utils to generate and verify KID numbers with either MOD10 or MOD11.
 
 To install from NPM as a package in your environment:
 
-    npm install @ondkloss/kid-util
+    npm install kid-util
 
 ## Code usage from installation
 
 Example code usages after installation:
 
-    > const kid = require('@ondkloss/kid-util');
+    > const kid = require('kid-util');
     undefined
     > kid.make('1234');
     '12344'
