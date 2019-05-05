@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.com/Ondkloss/kid-util.js.svg?branch=master)](https://travis-ci.com/Ondkloss/kid-util.js)
 
+**Development moved to NPM package `norwegian-numbers`: [GitHub](https://github.com/Ondkloss/norwegian-numbers.js) [npm](https://www.npmjs.com/package/norwegian-numbers)**
+
 Simple utils to generate and verify KID numbers with either MOD10 or MOD11.
 
 ## Installation
