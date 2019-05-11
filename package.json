@@ -1,6 +1,6 @@
 {
   "name": "kid-util",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Module for making and verifying KID numbers",
   "main": "kid-util.js",
   "directories": {
